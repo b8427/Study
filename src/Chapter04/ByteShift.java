@@ -12,6 +12,7 @@ public class ByteShift {
         b = (byte) (a << 2);
         System.out.println("Пepвoнaчaльнoe  значение  а:  " + a);
         System.out.println("i  and  b:  " + i + "  " + b);
+
     }
 
 }
