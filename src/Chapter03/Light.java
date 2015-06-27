@@ -1,4 +1,4 @@
-package Chapter02;
+package Chapter03;
 
 /**
  * Created by Boris on 18.06.2015.
