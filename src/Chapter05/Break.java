@@ -19,6 +19,5 @@ public class Break {
             }
             System.out.println("вышли из second и попали в first" );
         }
-
     }
 }
